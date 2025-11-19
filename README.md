@@ -14,6 +14,8 @@ This project simulates a game console experience, complete with commands to crea
 - **Terminal Gameplay**: Run games directly from the terminal.  
 
 ---
+## Requirements
+Some dependencies rely on Debian-12, not tested on other Operating Systems
 
 ## Quick Start  
 
